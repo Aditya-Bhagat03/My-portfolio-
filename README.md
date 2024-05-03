@@ -28,7 +28,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to Aditya Bhaagt (https://github.com/Aditya-Bhagat03/My-portfolio-). Thanks!
+You can fork this repository to modify and make changes of your own. Please give me proper credit by linking back to Aditya Bhaagt (https://github.com/Aditya-Bhagat03/My-portfolio-). Thanks!
 
 ## Built With
 
